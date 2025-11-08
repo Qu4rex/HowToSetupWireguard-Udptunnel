@@ -45,13 +45,13 @@ services:
 ```
 [Interface]
 Address = 10.13.13.2
-PrivateKey = WNY5gxbBRI2+WWxn19WiFQaFKihDipgeF7aPtlwECGA=
+PrivateKey = WNY5...=
 ListenPort = 51820
 DNS = 10.13.13.1
 
 [Peer]
 PublicKey = 5l0hIO/Ij1Qpuy0o5qz6IUopORQXyuwb6Q9pAeluEhQ=
-PresharedKey = qPBo9D07tprO0E+K+rCTy58tRNReYhkRokT5R7lyRUc=
+PresharedKey = qPBo9D07t...=
 Endpoint = 192.168.168.17:51820
 AllowedIPs = 0.0.0.0/0
 ```
